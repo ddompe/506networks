@@ -1,4 +1,4 @@
-baseURL = "https://506networks.netlify.com/"
+baseURL = "https://www.506networks.com/"
 languageCode = "en-us"
 title = "506 Networks"
 theme = "hugo-universal-theme"
