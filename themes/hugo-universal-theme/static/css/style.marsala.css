@@ -2915,7 +2915,7 @@ fieldset[disabled] .btn-template-primary.active {
   padding: 10px 15px;
   font-size: 18px;
   line-height: 20px;
-  height: 62px;
+  height: 75px;
 }
 .navbar-brand:hover,
 .navbar-brand:focus {
@@ -3529,7 +3529,7 @@ a.list-group-item.active > .badge,
 /*!
  * Yamm!3 - Yet another megamenu for Bootstrap 3
  * http://geedmo.github.com/yamm3
- * 
+ *
  * @geedmo - Licensed under the MIT license
  */
 .yamm .nav,
