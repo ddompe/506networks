@@ -44,17 +44,17 @@ paginate = 10
 
 # Top bar social links menu
 
-#[[menu.topbar]]
-#    weight = 1
-#    name = "GitHub"
-#    url = "https://github.com/devcows/hugo-universal-theme"
-#    pre = "<i class='fa fa-2x fa-github'></i>"
+[[menu.topbar]]
+    weight = 1
+    name = "WhatsApp"
+    url = "https://api.whatsapp.com/send?phone=50687196304"
+    pre = "<i class='fa fa-2x fa-whatsapp'></i>"
 
-#[[menu.topbar]]
-#    weight = 2
-#    name = "Facebook"
-#    url = "http://facebook.com"
-#    pre = "<i class='fa fa-2x fa-facebook'></i>"
+[[menu.topbar]]
+    weight = 2
+    name = "Skype"
+    url = "skype:Networks506?call"
+    pre = "<i class='fa fa-2x fa-skype'></i>"
 
 [[menu.topbar]]
     weight = 3
@@ -117,11 +117,9 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on +506 TBD or admin@506networks.com.</p>
-      <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
-      <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
-      </p>
-      """
+    text = ""
+#        <p class="hidden-sm hidden-xs">Contact us on social media, or call us!</p>
+#      """
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
