@@ -2,7 +2,14 @@ baseURL = "https://www.506networks.com/"
 languageCode = "en-us"
 title = "506 Networks"
 theme = "hugo-universal-theme"
+DefaultContentLanguage = "en"
 
+[Languages]
+[Languages.en]
+weight = 1
+
+[Languages.es]
+weight = 2
 
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
