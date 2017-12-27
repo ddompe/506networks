@@ -2,14 +2,6 @@ baseURL = "https://www.506networks.com/"
 languageCode = "en-us"
 title = "506 Networks"
 theme = "hugo-universal-theme"
-DefaultContentLanguage = "en"
-
-[Languages]
-[Languages.en]
-weight = 1
-
-[Languages.es]
-weight = 2
 
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
@@ -17,52 +9,108 @@ googleAnalytics = ""
 # Define the number of posts per page
 paginate = 10
 
-[menu]
+DefaultContentLanguage = "en"
 
-# Main menu
+[Languages]
+[Languages.en]
+weight = 1
+languageName = "English"
 
-[[menu.main]]
+[Languages.en.params]
+    LanguageSVG = "us.svg"
+
+[[Languages.en.menu.main]]
     name = "Home"
     url  = "/"
     weight = 1
 
-[[menu.main]]
+[[Languages.en.menu.main]]
     name = "Blog"
     url  = "/blog/"
     weight = 2
 
-[[menu.main]]
+[[Languages.en.menu.main]]
     name = "FAQ"
     identifier = "faq"
     url  = "/faq/"
     weight = 3
 
-[[menu.main]]
+[[Languages.en.menu.main]]
     name = "Contact"
     url  = "/contact/"
     weight = 4
 
-# Top bar social links menu
-
-[[menu.topbar]]
+[[Languages.en.menu.topbar]]
     weight = 1
     name = "WhatsApp"
-    url = "https://api.whatsapp.com/send?phone=50687196304"
+    url = "https://api.whatsapp.com/send?phone=50687196304&text=I'm%20contacting%20you%20regarding%20506%20Networking%20Services"
     pre = "<i class='fa fa-2x fa-whatsapp'></i>"
 
-[[menu.topbar]]
+[[Languages.en.menu.topbar]]
     weight = 2
     name = "Skype"
-    url = "skype:Networks506?call"
+    url = "skype:admin@506networks.com?call"
     pre = "<i class='fa fa-2x fa-skype'></i>"
 
-[[menu.topbar]]
+[[Languages.en.menu.topbar]]
     weight = 3
     name = "Twitter"
     url = "https://twitter.com/506Networks"
     pre = "<i class='fa fa-2x fa-twitter'></i>"
 
-[[menu.topbar]]
+[[Languages.en.menu.topbar]]
+    weight = 4
+    name = "Email"
+    url = "mailto:admin@506networks.com"
+    pre = "<i class='fa fa-2x fa-envelope'></i>"
+
+[Languages.es]
+weight = 2
+languageName = "Español"
+
+[Languages.es.params]
+    LanguageSVG = "cr.svg"
+
+[[Languages.es.menu.main]]
+    name = "Inicio"
+    url  = "/"
+    weight = 1
+
+[[Languages.es.menu.main]]
+    name = "Blog"
+    url  = "/blog/"
+    weight = 2
+
+[[Languages.es.menu.main]]
+    name = "Preguntas Frequentes"
+    identifier = "faq"
+    url  = "/faq/"
+    weight = 3
+
+[[Languages.es.menu.main]]
+    name = "Contacto"
+    url  = "/contact/"
+    weight = 4
+
+[[Languages.es.menu.topbar]]
+    weight = 1
+    name = "WhatsApp"
+    url = "https://api.whatsapp.com/send?phone=50687196304&text=Lo%20estoy%20contactando%20con%20respecto%20a%20los%20servicios%20de%20506%20Networking"
+    pre = "<i class='fa fa-2x fa-whatsapp'></i>"
+
+[[Languages.es.menu.topbar]]
+    weight = 2
+    name = "Skype"
+    url = "skype:admin@506networks.com?call"
+    pre = "<i class='fa fa-2x fa-skype'></i>"
+
+[[Languages.es.menu.topbar]]
+    weight = 3
+    name = "Twitter"
+    url = "https://twitter.com/506Networks"
+    pre = "<i class='fa fa-2x fa-twitter'></i>"
+
+[[Languages.es.menu.topbar]]
     weight = 4
     name = "Email"
     url = "mailto:admin@506networks.com"

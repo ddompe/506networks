@@ -247,6 +247,19 @@ ul.list-style-none {
   float: right;
   text-align: right;
 }
+#top .language a {
+  color: #999999;
+  width: 24px;
+  height: 24px;
+  border-radius: 12px;
+  line-height: 20px;
+  font-size: 16px;
+  text-align: center;
+  vertical-align: bottom;
+}
+#top .language a:hover {
+  color: #fff;
+}
 #top .social a {
   color: #999999;
   display: inline-block;

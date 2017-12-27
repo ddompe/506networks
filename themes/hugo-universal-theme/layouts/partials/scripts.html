@@ -17,3 +17,21 @@
 
 <!-- owl carousel -->
 <script src="{{ .Site.BaseURL }}js/owl.carousel.min.js"></script>
+
+<!--
+<script type="text/javascript">
+  $( document ).ready(function(){
+      var userLang = navigator.languages[0] || navigator.userLanguage;
+      console.log("Found " + userLang.toLowerCase() + " {{ .Site.Language.Lang }}")
+      if (userLang.toLowerCase() != "{{ .Site.Language.Lang }}") {
+          if (userLang == "en") {
+            console.log("Redirect: {{ .Site.BaseURL }}")
+              window.location.href = "{{ .Site.BaseURL }}"
+          } else {
+              window.location.href = "{{ .Site.BaseURL }}{{ .LanguagePrefix}}"
+              console.log("Redirect: {{ .Site.BaseURL }}{{ .LanguagePrefix}}")
+          }
+      }
+  });
+</script>
+-->

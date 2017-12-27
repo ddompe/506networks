@@ -3,7 +3,15 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-5">
-        {{ .Site.Params.topbar.text | safeHTML }}
+        <div class="language">
+          {{ i18n "language" }}:
+          <select onchange="location = this.options[this.selectedIndex].value;">
+              <option value="{{ .Site.BaseURL }}{{ .LanguagePrefix}}" data-content=" {{ .Language.LanguageName }}">{{ .Language.LanguageName }}</option>
+              {{ range .Translations }}
+              <option value="{{ .Site.BaseURL }}{{ .LanguagePrefix}}" data-content=" {{ .Language.LanguageName }}">{{ .Language.LanguageName }}</option>
+              {{ end}}
+          </select>
+        </div>
       </div>
       <div class="col-xs-7">
         <div class="social">
