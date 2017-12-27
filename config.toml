@@ -15,9 +15,12 @@ DefaultContentLanguage = "en"
 [Languages.en]
 weight = 1
 languageName = "English"
+about_us = "<p>We are the solution provider for all your home networking needs in Costa Rica.</p>"
 
-[Languages.en.params]
-    LanguageSVG = "us.svg"
+[Languages.en.recent_posts]
+    enable = true
+    title = "From our blog"
+    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
 
 [[Languages.en.menu.main]]
     name = "Home"
@@ -67,9 +70,12 @@ languageName = "English"
 [Languages.es]
 weight = 2
 languageName = "Español"
+about_us = "<p>Somos el proveedor de soluciones para todas sus necesidades en redes de hogar.</p>"
 
-[Languages.es.params]
-    LanguageSVG = "cr.svg"
+[Languages.es.recent_posts]
+    enable = true
+    title = "De nuestro blog"
+    subtitle = "Aqui encontrará algunos articulos que explican buenas prácticas sobre redes de hogar."
 
 [[Languages.es.menu.main]]
     name = "Inicio"
@@ -143,14 +149,13 @@ languageName = "Español"
     # Enable the contact form by entering your Formspree.io email
     email = "admin@506networks.com"
 
-    about_us = "<p>TBD.</p>"
     copyright = "Copyright (c) 2017 - 2018, 506 Networks; All Rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
     logo = "img/logo.png"
-    address = """<p><strong>506 Networks.</strong>
+    address = """<p><strong>506 Networks</strong>
         <br>Escazu
         <br>
         <strong>Costa Rica</strong>
@@ -204,14 +209,9 @@ languageName = "Español"
     link_text = "Check other homepages"
 
 [params.clients]
-    enable = true
+    enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
     title = "Our Clients"
     subtitle = ""
-
-[params.recent_posts]
-    enable = true
-    title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
