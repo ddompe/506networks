@@ -9,7 +9,7 @@ googleAnalytics = "UA-111673611-1"
 # Define the number of posts per page
 paginate = 10
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "es"
 
 [Languages]
 [Languages.en]
@@ -49,11 +49,11 @@ about_us = "<p>We are the solution provider for all your home networking needs i
     url = "https://api.whatsapp.com/send?phone=50687196304&text=I'm%20contacting%20you%20regarding%20506%20Networking%20Services"
     pre = "<i class='fa fa-2x fa-whatsapp'></i>"
 
-[[Languages.en.menu.topbar]]
-    weight = 2
-    name = "Skype"
-    url = "skype:admin@506networks.com?call"
-    pre = "<i class='fa fa-2x fa-skype'></i>"
+#[[Languages.en.menu.topbar]]
+#    weight = 2
+#    name = "Skype"
+#    url = "skype:admin@506networks.com?call"
+#    pre = "<i class='fa fa-2x fa-skype'></i>"
 
 [[Languages.en.menu.topbar]]
     weight = 3
@@ -70,7 +70,7 @@ about_us = "<p>We are the solution provider for all your home networking needs i
 [Languages.es]
 weight = 2
 languageName = "Español"
-about_us = "<p>Somos el proveedor de soluciones para todas sus necesidades en redes de hogar.</p>"
+about_us = "<p>Somos una empresa familiar que se dedica a proveer soluciones y servicios tecnologicos para el hogar.</p>"
 
 [Languages.es.recent_posts]
     enable = true
@@ -104,11 +104,11 @@ about_us = "<p>Somos el proveedor de soluciones para todas sus necesidades en re
     url = "https://api.whatsapp.com/send?phone=50687196304&text=Lo%20estoy%20contactando%20con%20respecto%20a%20los%20servicios%20de%20506%20Networking"
     pre = "<i class='fa fa-2x fa-whatsapp'></i>"
 
-[[Languages.es.menu.topbar]]
-    weight = 2
-    name = "Skype"
-    url = "skype:admin@506networks.com?call"
-    pre = "<i class='fa fa-2x fa-skype'></i>"
+#[[Languages.es.menu.topbar]]
+#    weight = 2
+#    name = "Skype"
+#    url = "skype:admin@506networks.com?call"
+#    pre = "<i class='fa fa-2x fa-skype'></i>"
 
 [[Languages.es.menu.topbar]]
     weight = 3
