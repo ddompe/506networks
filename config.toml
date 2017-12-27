@@ -4,7 +4,7 @@ title = "506 Networks"
 theme = "hugo-universal-theme"
 
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
+googleAnalytics = "UA-111673611-1"
 
 # Define the number of posts per page
 paginate = 10
