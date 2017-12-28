@@ -7,6 +7,6 @@ description: >
    ¿Se "desconecta" el Internet?<br>
    ¿Netflix no funciona?<br>
    <br>
-   <a href=how/ style="color: #FFF;">Nosotros podemos ayudarle.</a>
+   <a href=how/ class="btn btn-template-transparent-black btn-lg">Nosotros podemos ayudarle.</a>
   </p>
 image: "/img/iStock-612736338.jpg"

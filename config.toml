@@ -17,6 +17,14 @@ weight = 1
 languageName = "English"
 about_us = "<p>We are the solution provider for all your home networking needs in Costa Rica.</p>"
 
+[Languages.en.see_more]
+    enable = true
+    icon = "fa fa-file-code-o"
+    title = "Do you want to see more?"
+    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    link_url = "#"
+    link_text = "Check other homepages"
+
 [Languages.en.recent_posts]
     enable = true
     title = "From our blog"
@@ -70,12 +78,20 @@ about_us = "<p>We are the solution provider for all your home networking needs i
 [Languages.es]
 weight = 2
 languageName = "Español"
-about_us = "<p>Somos una empresa familiar que se dedica a proveer soluciones y servicios tecnologicos para el hogar.</p>"
+about_us = "<p>Somos una empresa familiar que se dedica a proveer soluciones y servicios tecnologicos para el hogar.<br>Lea sobre <a href='/why/'>por que lo hacemos</a>.</p>"
+
+[Languages.es.see_more]
+    enable = true
+    icon = "fa fa-laptop"
+    title = "¿Quiere saber más sobre nuestros servicios?"
+    subtitle = ""
+    link_url = "/how/"
+    link_text = "Aprenda como podemos ayudarle"
 
 [Languages.es.recent_posts]
     enable = true
     title = "De nuestro blog"
-    subtitle = "Aqui encontrará algunos articulos que explican buenas prácticas sobre redes de hogar."
+    subtitle = "Aqui encontrará algunos articulos que explican buenas prácticas sobre redes para el hogar."
 
 [[Languages.es.menu.main]]
     name = "Inicio"
@@ -200,13 +216,6 @@ about_us = "<p>Somos una empresa familiar que se dedica a proveer soluciones y s
     title = "Testimonials"
     subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
-[params.see_more]
-    enable = true
-    icon = "fa fa-file-code-o"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "#"
-    link_text = "Check other homepages"
 
 [params.clients]
     enable = false
