@@ -57,11 +57,11 @@ about_us = "<p>We are the solution provider for all your home networking needs i
     url = "https://api.whatsapp.com/send?phone=50687196304&text=I'm%20contacting%20you%20regarding%20506%20Networking%20Services"
     pre = "<i class='fa fa-2x fa-whatsapp'></i>"
 
-#[[Languages.en.menu.topbar]]
-#    weight = 2
-#    name = "Skype"
-#    url = "skype:admin@506networks.com?call"
-#    pre = "<i class='fa fa-2x fa-skype'></i>"
+[[Languages.en.menu.topbar]]
+    weight = 2
+    name = "Facebook"
+    url = "https://www.facebook.com/506Networking/"
+    pre = "<i class='fa fa-2x fa-facebook'></i>"
 
 [[Languages.en.menu.topbar]]
     weight = 3
@@ -120,11 +120,11 @@ about_us = "<p>Somos una empresa familiar que se dedica a proveer soluciones y s
     url = "https://api.whatsapp.com/send?phone=50687196304&text=Lo%20estoy%20contactando%20con%20respecto%20a%20los%20servicios%20de%20506%20Networking"
     pre = "<i class='fa fa-2x fa-whatsapp'></i>"
 
-#[[Languages.es.menu.topbar]]
-#    weight = 2
-#    name = "Skype"
-#    url = "skype:admin@506networks.com?call"
-#    pre = "<i class='fa fa-2x fa-skype'></i>"
+[[Languages.es.menu.topbar]]
+    weight = 2
+    name = "Facebook"
+    url = "https://www.facebook.com/506Networking/"
+    pre = "<i class='fa fa-2x fa-facebook'></i>"
 
 [[Languages.es.menu.topbar]]
     weight = 3
