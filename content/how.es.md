@@ -10,11 +10,11 @@ Nuestro objetivo es ofrecerle servicios con personal y productos especializados.
 visitas a domicilio para diagnosticar, asesorar o instalar redes para hogar y todo lo relacionado con ellas:
 
   * Le ayudamos a diagnosticar problemas de configuración o instalación de su red cableada o inalámbrica.
-     * Podemos hacer analisis de cobertura de la señal wireless e identificar la mejor distribución para la misma.
-  * Le asesoramos en el diseño e instalación de productos conectados a su red: almacenamiento (NAS), camaras IP/PoE,
+     * Podemos hacer análisis de cobertura de la señal wireless e identificar la mejor distribución para la misma.
+  * Le asesoramos en el diseño e instalación de productos conectados a su red: almacenamiento (NAS), cámaras IP/PoE,
     Firewalls/DMZ, VoIP, etc.
   * Le asesoramos sobre seguridad.
-  * Vendemos soluciones WiFi especializadas para casas que requieren mas de un punto de acceso inalámbrico
+  * Vendemos soluciones WiFi especializadas para casas que requieren más de un punto de acceso inalámbrico
     con technología mesh, las cuales no están disponibles en tiendas de Costa Rica.
 
 Nosotros no enviamos técnicos a la visita, sino ingenieros con un amplio espectro de conocimientos que lo pueden

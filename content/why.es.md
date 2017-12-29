@@ -19,20 +19,20 @@ de un vecino, amigo o familiar que 'se la juega con las computadoras'.
 
 El problema es que la red de la casa ya no es más un lujo. Todos nos sentimos
 identificados con la señora que reclama su derecho a tra-ba-jar. Sin embargo
-tambien muchos no tenemos la mas remota idea de como hacer que nuestras redes
-caseras funcionen adecuadamente (más alla de llamar a quejarnos con Kölbi, CableTica,
+también muchos no tenemos la más remota idea de cómo hacer que nuestras redes
+caseras funcionen adecuadamente (más allá de llamar a quejarnos con Kölbi, CableTica,
 Tigo, TeleCable, etc).
 
 ## Cada Vez es más Complicado e Inseguro
 Hoy en día una red casera es fundamental si usted necesita trabajar desde la casa,
-ver peliculas en linea, comprar por Internet, o poner una camara para vigilar
+ver películas en línea, comprar por Internet, o poner una cámara para observar
 remotamente a su nuevo bebe. Pero esto abre nuevos retos que hacen que
-tengamos que ir más alla de configurar el "router" y darle el password a todos los
+tengamos que ir más allá de configurar el "router" y darle el password a todos los
 dispositivos de la casa.
 
 La cantidad de dispositivos conectados a la red de la casa crece constantemente:
 televisores, luces, reproductores, consolas de video juegos, etc. Si su casa
-es de mas de un piso, probablemente requiere de mas de un punto de acceso
+es de más de un piso, probablemente requiere de más de un punto de acceso
 inalámbrico (o un repetidor). Todo esto contribuye a que el desempeño de la red
 probablemente no sea el mejor.
 
@@ -41,15 +41,15 @@ riesgos reales:
 
   * La posibilidad de dirigirlo a sitios maliciosos para robar su información
     personal o financiera.
-  * La posibilidad de espiar sobre sus dispositivos (camaras, computadoras, etc).
+  * La posibilidad de espiar sobre sus dispositivos (cámaras, computadoras, etc).
   * La posibilidad de que sus dispositivos caseros inseguros sean parte de ataques
-    ciberneticos a nivel mundial.
+    cibernéticos a nivel mundial.
 
 Si usted piensa que estos riesgos son lejanos y "nunca me va a pasar", lamento
-decirle que probablemente esta muy equivocado. Preguntese a usted mismo, ¿cuando
-fue la ultima vez que su proveedor de servicio lo visitó para actualizar el software de su
-"modem" de Internet? ¿Cuantas veces ha actualizado su televisor "inteligente"?
-Recuerde en comparación cuantas veces su telefono inteligente o computadora se
+decirle que probablemente está muy equivocado. Pregúntese a usted mismo, ¿cuándo
+fue la última vez que su proveedor de servicio lo visitó para actualizar el software de su
+"modem" de Internet? ¿Cuántas veces ha actualizado su televisor "inteligente"?
+Recuerde en comparación cuantas veces su teléfono inteligente o computadora se
 actualiza por temas de seguridad.
 
 ## Nuestro Grano de Arena
@@ -58,7 +58,7 @@ Nuestra empresa busca aportar a solucionar estos problemas desde dos perspectiva
 
   * Vender [servicios y productos](/how) a la medida del mercado costarricense que solucionen
     los problemas que mencionamos previamente.
-  * Educar sobre buenas prácticas mediante [articulos en nuestro sitio web](/blog), de ser
+  * Educar sobre buenas prácticas mediante [artículos en nuestro sitio web](/blog), de ser
     posible contextualizados en nuestra realidad.
 
 <br>
