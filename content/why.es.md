@@ -58,7 +58,7 @@ Nuestra empresa busca aportar a solucionar estos problemas desde dos perspectiva
 
   * Vender [servicios y productos](/how) a la medida del mercado costarricense que solucionen
     los problemas que mencionamos previamente.
-  * Educar sobre buenas prácticas mediante articulos en nuestro sitio web, de ser
+  * Educar sobre buenas prácticas mediante [articulos en nuestro sitio web](/blog), de ser
     posible contextualizados en nuestra realidad.
 
 <br>

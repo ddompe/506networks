@@ -1,43 +1,49 @@
 +++
-title = "FAQ"
-description = "Frequently asked questions"
+title = "Preguntas Frequentes"
+description = "Preguntas Frequentes"
 keywords = ["FAQ","How do I","questions","what if"]
 +++
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+## 0. ¿En cuales areas de Costa Rica ofrecen sus servicios?
 
-## 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?
+Actualmente ofrecemos nuestros servicios a domicilio dentro del gran area metropolitana. Contactenos tiene si requiere los servicios en otras areas del país.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+## 1. ¿Como solicito una visita a domicilio?
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+[Contactenos](/contact/) para concertar una cita. En base a la información que nos brinde, valoraremos el tiempo requerido para
+la visita, y le daremos una cotización de los costos. Una vez que su cita sea calendarizada, le mandaremos una confirmación por correo electrónico.
 
-## 2. WHAT ARE THE POSTAL RATES?
+## 2. Yo trabajo todo el día, pero me gustaria estar allí cuando realizen un diagnostico u instalación ¿Pueden visitarme fuera de horas de oficina?
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+Si! Nosotros podemos concertar citas en hora de la noche, o fines de semana. De hecho es nuestra preferencia que el cliente se
+encuentre en la casa, para proveerle la explicación y asesoria adecuada.
 
-## 3. DO YOU SEND OVERSEAS?
+## 3. ¿Cuales son sus tarifas?
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+Las tarifas actuales son:
 
-## 4. WHY ARE YOU MORE EXPENSIVE THAN OTHERS?
+| Servicio                                                | Tarifa (USD) | Observaciones       |
+| ------------------------------------------------------- |:------------:| ------------------- |
+| Visita de diagnóstico (area metropolitana, 30 minutos)  |          $30 | No se cobra si se realiza servicio de mantenimiento en la misma visita  |
+| Mantenimiento o instalación de red (menos de 1 hora)    |          $70 |  |
+| Mantenimiento o instalación de red (hora extra por encima de 1h)  |         $50 |  |
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+<br>
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+Antes de realizar cualquier tarea de mantenimiento o instalación se brindará el
+precio por el mismo, basado en la tabla anterior, y ese será el costo final aun si toma más tiempo del anticipado.
 
-## 5. ANOTHER IMPORTANT QUESTION
+## 4. ¿Ustedes venden equipo de redes?
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+Nosotros vendemos algunos equipos de redes para hogar especializados que no se consiguen en Costa Rica, por
+ejemplo soluciones WiFI de mesh. Para cualquier otro equipo requerido lo asesoraremos para conseguir
+el equipo adecuado en un distribuidor local.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+## 5. ¿Ustedes realizan cableado estructurado para casas?
+
+No ofrecemos el servicio de cableado estructurado, pero contamos con una red de contactos a la
+cual podemos referirlo para este tipo de servicios.
 
 ---
 
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
+> En caso de que no haya encontrado la respuesta, favor contáctenos y estaremos felices de ayudarle.
