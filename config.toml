@@ -54,7 +54,7 @@ about_us = "<p>We are the solution provider for all your home networking needs i
 [[Languages.en.menu.topbar]]
     weight = 1
     name = "WhatsApp"
-    url = "https://api.whatsapp.com/send?phone=50687196304&text=I'm%20contacting%20you%20regarding%20506%20Networking%20Services"
+    url = "https://api.whatsapp.com/send?phone=50662347896&text=I'm%20contacting%20you%20regarding%20506%20Networking%20Services"
     pre = "<i class='fa fa-2x fa-whatsapp'></i>"
 
 [[Languages.en.menu.topbar]]
@@ -117,7 +117,7 @@ about_us = "<p>Somos una empresa familiar que se dedica a proveer soluciones y s
 [[Languages.es.menu.topbar]]
     weight = 1
     name = "WhatsApp"
-    url = "https://api.whatsapp.com/send?phone=50687196304&text=Lo%20estoy%20contactando%20con%20respecto%20a%20los%20servicios%20de%20506%20Networking"
+    url = "https://api.whatsapp.com/send?phone=50662347896&text=Lo%20estoy%20contactando%20con%20respecto%20a%20los%20servicios%20de%20506%20Networking"
     pre = "<i class='fa fa-2x fa-whatsapp'></i>"
 
 [[Languages.es.menu.topbar]]
