@@ -8,17 +8,24 @@ keywords = ["FAQ","How do I","questions","what if"]
 
 Actualmente ofrecemos nuestros servicios a domicilio dentro del gran área metropolitana. Contáctenos si requiere los servicios en otras áreas del país.
 
-## 1. ¿Como solicito una visita a domicilio?
+## 1. Do you speak English?
+
+Yes, we do! Do not hesitate to contact us even if Spanish is not your native language. We will be glad to help you and provide
+great support and service in English.
+
+This page will have an English translation soon, stay tuned!
+
+## 2. ¿Como solicito una visita a domicilio?
 
 [Contactenos](/contact/) para concertar una cita. En base a la información que nos brinde, valoraremos el tiempo requerido para
 la visita, y le daremos una cotización de los costos. Una vez que su cita sea calendarizada, le mandaremos una confirmación por correo electrónico.
 
-## 2. Yo trabajo todo el día, pero me gustaria estar allí cuando realicen un diagnostico u instalación ¿Pueden visitarme fuera de horas de oficina?
+## 3. Yo trabajo todo el día, pero me gustaria estar allí cuando realicen un diagnostico u instalación ¿Pueden visitarme fuera de horas de oficina?
 
 ¡Si! Nosotros podemos concertar citas en hora de la noche, o fines de semana. De hecho, es nuestra preferencia que el cliente se
 encuentre en la casa, para proveerle la explicación y asesoría adecuada.
 
-## 3. ¿Cúales son sus tarifas?
+## 4. ¿Cúales son sus tarifas?
 
 Las tarifas actuales son:
 
@@ -33,13 +40,13 @@ Las tarifas actuales son:
 Antes de realizar cualquier tárea de mantenimiento o instalación se brindará el
 precio por el mismo, basado en la tabla anterior, y ese será el costo final aun si toma más tiempo del anticipado.
 
-## 4. ¿Ustedes venden equipo de redes?
+## 5. ¿Ustedes venden equipo de redes?
 
 Nosotros vendemos algunos equipos de redes para hogar especializados que no se consiguen en Costa Rica, por
 ejemplo soluciones WiFi de mesh. Para cualquier otro equipo requerido lo asesoraremos para conseguir
 el equipo adecuado en un distribuidor local.
 
-## 5. ¿Ustedes realizan cableado estructurado para casas?
+## 6. ¿Ustedes realizan cableado estructurado para casas?
 
 No ofrecemos el servicio de cableado estructurado, pero contamos con una red de contactos a la
 cual podemos referirlo para este tipo de servicios.

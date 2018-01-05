@@ -11,6 +11,8 @@ El WiFi es parte fundamental de muchas de nuestras casas por muchas razones: tra
 
 <!--more-->
 
+> Resumen ejecutivo si no quiere los detalles: El WiFi moderno no funciona bien cuando hay muchos dispositivos, muchos puntos de acceso, y casas muy grandes. Todo esto debido al exceso de interferencia en el medio de comunicación. Existe una nueva generación de soluciones WiFi denominadas WiFi de mesh, que proveen mejores resultados que las soluciones actuales, y [muchos otros beneficios](#soluciones).
+
 <img style="float: right; width:40%; margin:20px" src="/img/components_hierarchy.png">
 
 ## La típica red del hogar
@@ -25,9 +27,15 @@ Prácticamente todas las casas modernas tendrán una red inalámbrica (conocidas
 
 ## Algunos aspectos del WiFi que se pasan por alto
 
-El WiFi es una tecnología que muchos damos por sentado, pero podemos pasar por alto algunos detalles de como funciona. Hay varios aspectos que nos interesa mencionar sobre el WiFi:
+El WiFi es una tecnología que muchos damos por sentado, pero no podemos escapar algunas realidades a la hora de usarlo. Hay varios aspectos que nos interesa mencionar sobre el WiFi:
 
-  * La señal se debilita con el cuadrado de la distancia: al doble de la distancia la señal ha perdido un cuarto de su poder. La señal está prácticamente disipada para cuando llega al otro lado de la casa.
+  * La señal se debilita con el cuadrado de la distancia: al doble de la distancia la señal ha perdido un cuarto de su poder. La señal ha prácticamente desparecido para cuando llega al otro lado de la casa. Ver el
+
+  <figure>
+  <img style="display:block; margin-left: auto; margin-right: auto; width:70%;" src="/img/wifi_over_distance.png">
+  <figcaption style="text-align: center;">Como decae la señal del WiFi (Imagen cortesía de [Plume](https://blog.plumewifi.com/if-broadband-is-so-reliable-why-does-my-internet-suck-380916b29aeb))</figcaption>
+  </figure>
+
   * Los objetos (paredes, espejos, muebles, animales, personas) deterioran la señal: una pared de cemento típica de Costa Rica reduce la señal a 1/10 de su potencia.
   * El WiFi es un medio compartido, es decir, cuando un dispositivo está transmitiendo datos, los demás deben permanecer en silencio. Entre más dispositivos compartan la red, menos capacidad hay para todos.
   * Existen diversos estándares de WiFi (b,g,n,ac), y también distintas frecuencias (2.4 Ghz y 5Ghz) y canales dentro de las mismas ¿Qué significa todo esto? Significa que hay distintas velocidades, rango de la señal y parámetros que se ajustan que afectan como se instala un WiFi adecuadamente.
@@ -47,7 +55,7 @@ Con todo lo anterior, no es difícil entender por qué con el paso de los años 
 
 Es por todo esto que los técnicos de su proveedor de Internet no se harán responsables de nada más allá del CPE que le instalen.
 
-## ¿Como se puede solucionar?
+## <a name="soluciones">¿Como se puede solucionar?</a>
 
 La solución es más simple de lo que uno cree: redes WiFi de Mesh para hogar.
 
@@ -68,7 +76,7 @@ Los sistemas de mesh para redes de hogar se han comercializado recientemente, y 
 
     > Si bien muchas de estas funcionalidades están disponibles en muchos APs tradicionales, en una casa con multiples APs sería necesario configurar cada uno individualmente, y usualmente no se usan los mismos APs en toda la casa (es común el uso de repetidores).
 
-  * Estos dispositivos tienen la capacidad de recibir actualizaciones de software desde la nube, y reciben constante mantenimiento, incluyendo arreglos de seguridad importantes (al igual que su teléfono o laptop).  
+  * Estos dispositivos tienen la capacidad de recibir actualizaciones de software desde la nube, y reciben constante mantenimiento, incluyendo arreglos de seguridad importantes (al igual que su teléfono o laptop). Por ejemplo, casi todos estos APs han sido actualizados remotamente para arreglar problemas de seguridad como [KRACK](https://www.krackattacks.com), y estamos seguros que el AP que está corriendo en su casa en este momento no, a menos que usted lo haya hecho por si mismo.
 
 <img style="float: right; width:30%; margin:20px" src="/img/Plume-WiFi-3-LumberJac.jpg">
 
