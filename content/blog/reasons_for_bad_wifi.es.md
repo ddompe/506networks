@@ -7,9 +7,11 @@ banner: "img/iStock-623267038.jpg"
 draft: false
 ---
 
-<img style="float: right; width:40%; margin:20px" src="/img/components_hierarchy.png">
-
 El WiFi es parte fundamental de muchas de nuestras casas por muchas razones: trabajo, negocios, entretenimiento, etc. Sin embargo, probablemente usted ha notado que, a diferencia de muchas cosas en el mundo tecnológico, el WiFi (o su conexión de Internet) realmente no ha mejorado con el paso de los años ¿Se ha preguntado por qué? Revisemos las razones.
+
+<!--more-->
+
+<img style="float: right; width:40%; margin:20px" src="/img/components_hierarchy.png">
 
 ## La típica red del hogar
 
@@ -70,7 +72,7 @@ Los sistemas de mesh para redes de hogar se han comercializado recientemente, y 
 
 <img style="float: right; width:30%; margin:20px" src="/img/Plume-WiFi-3-LumberJac.jpg">
 
-Existen múltiples soluciones mesh para hogar: [Plume](https://www.plumewifi.com), [AmpliFi](https://www.amplifi.com), [Orbi](https://www.netgear.com/orbi/), y varios más que podrá encontrar fácilmente haciendo una búsqueda en google. En la imagen de la derecha puede ver un AP de PlumeWifi, nuestro favorito por flexibilidad, cobertura y estética. 
+Existen múltiples soluciones mesh para hogar: [Plume](https://www.plumewifi.com), [AmpliFi](https://www.amplifi.com), [Orbi](https://www.netgear.com/orbi/), y varios más que podrá encontrar fácilmente haciendo una búsqueda en google. En la imagen de la derecha puede ver un AP de PlumeWifi, nuestro favorito por flexibilidad, cobertura y estética.
 
 # ¿Como consigo dispositivos de WiFi mesh para hogar en Costa Rica?
 
