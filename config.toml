@@ -9,6 +9,8 @@ googleAnalytics = "UA-111673611-1"
 # Define the number of posts per page
 paginate = 10
 
+disqusShortname = "506networks"
+
 DefaultContentLanguage = "es"
 
 [Languages]
