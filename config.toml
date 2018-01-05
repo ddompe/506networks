@@ -60,7 +60,7 @@ about_us = "<p>We are the solution provider for all your home networking needs i
 [[Languages.en.menu.topbar]]
     weight = 2
     name = "Facebook"
-    url = "https://www.facebook.com/506Networking/"
+    url = "https://www.facebook.com/506Networks/"
     pre = "<i class='fa fa-2x fa-facebook'></i>"
 
 [[Languages.en.menu.topbar]]
@@ -123,7 +123,7 @@ about_us = "<p>Somos una empresa familiar que se dedica a proveer soluciones y s
 [[Languages.es.menu.topbar]]
     weight = 2
     name = "Facebook"
-    url = "https://www.facebook.com/506Networking/"
+    url = "https://www.facebook.com/506Networks/"
     pre = "<i class='fa fa-2x fa-facebook'></i>"
 
 [[Languages.es.menu.topbar]]
