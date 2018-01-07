@@ -80,7 +80,7 @@ about_us = "<p>We are the solution provider for all your home networking needs i
 [Languages.es]
 weight = 2
 languageName = "Español"
-about_us = "<p>Somos una empresa familiar que se dedica a proveer soluciones y servicios tecnologicos para el hogar.</p><p><a class='btn btn-small btn-template-main' href='/why/'>por que lo hacemos</a></p>"
+about_us = "<p>Somos una empresa familiar que se dedica a proveer soluciones y servicios tecnológicos para el hogar.</p><p><a class='btn btn-small btn-template-main' href='/why/'>por que lo hacemos</a></p>"
 
 [Languages.es.see_more]
     enable = true
