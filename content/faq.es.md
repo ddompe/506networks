@@ -36,7 +36,7 @@ Las tarifas actuales son:
 | Servicio                                                | Tarifa (USD) | Observaciones       |
 | ------------------------------------------------------- |:------------:| ------------------- |
 | Visita de diagnóstico (área metropolitana, 30 minutos)  |          $30 | No se cobra si se realiza servicio de mantenimiento en la misma visita  |
-| Mantenimiento o instalación de red (menos de 1 hora)    |          $70 |  |
+| Mantenimiento o instalación de red (menos de 1 hora)    |          $50 |  |
 | Mantenimiento o instalación de red (hora extra por encima de 1h)  |         $50 |  |
 
 <br>
