@@ -18,7 +18,7 @@ poca atención en el peor de los casos, o en el mejor, conseguimos ayuda
 de un vecino, amigo o familiar que 'se la juega con las computadoras'.
 
 El problema es que la red de la casa ya no es más un lujo. Todos nos sentimos
-identificados con la señora que reclama su derecho a tra-ba-jar. Sin embargo
+identificados con la señora que reclama su derecho a trabajar. Sin embargo
 también muchos no tenemos la más remota idea de cómo hacer que nuestras redes
 caseras funcionen adecuadamente (más allá de llamar a quejarnos con Kölbi, CableTica,
 Tigo, TeleCable, etc).
